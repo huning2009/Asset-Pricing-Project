@@ -1,10 +1,10 @@
 # Asset-Pricing-Assignments
-Assignment 1: Plot Capital Market Line;
+Part 1: Plot Capital Market Line;
 
-Assignment 2: Plot Security Market Line;
+Part 2: Plot Security Market Line;
 
-Assignment 3: Plot Minimum Vairance Frontier using Monte Carlo Simulation;
+Part 3: Plot Minimum Vairance Frontier using Monte Carlo Simulation;
 
-Assignment 4: Plot Volatility of Pricing Kernel VS Gamma, Price Dividend Ratio VS Gamma, Equity Premium VS Gamma;
+Part 4: Plot Volatility of Pricing Kernel VS Gamma, Price Dividend Ratio VS Gamma, Equity Premium VS Gamma;
 
-Assignment 5: Behavioral Finance, Prospect Theory.
+Part 5: Behavioral Finance, Prospect Theory.
