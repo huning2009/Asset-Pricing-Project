@@ -1,4 +1,4 @@
-# Asset-Pricing-Assignments
+# Asset-Pricing-Project
 Part 1: Plot Capital Market Line;
 
 Part 2: Plot Security Market Line;
